@@ -1,0 +1,6 @@
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\bin\Debug\mc.Omron.v1.00.dll
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\bin\Debug\mc.Omron.v1.00.pdb
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\obj\Debug\mc.Omron.v1.00.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\obj\Debug\mc.Omron.v1.00.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\obj\Debug\mc.Omron.v1.00.dll
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\mc.omron.v1.00\obj\Debug\mc.Omron.v1.00.pdb

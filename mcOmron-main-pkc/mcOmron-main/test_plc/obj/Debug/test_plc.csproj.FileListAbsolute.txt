@@ -1,0 +1,13 @@
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\bin\Debug\test_plc.exe.config
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\bin\Debug\test_plc.exe
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\bin\Debug\test_plc.pdb
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\bin\Debug\mc.Omron.v1.00.dll
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\bin\Debug\mc.Omron.v1.00.pdb
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.Properties.Resources.resources
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.TestPLC.resources
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.csproj.GenerateResource.cache
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.csproj.CopyComplete
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.exe
+C:\Users\user\Downloads\mcOmron-main\mcOmron-main\test_plc\obj\Debug\test_plc.pdb
